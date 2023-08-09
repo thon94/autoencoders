@@ -1,2 +1,2 @@
 # autoencoders
-Autoencoder for classification - joint work with Nokis Bell Labs
+Autoencoder for classification - joint work with Nokia Bell Labs
